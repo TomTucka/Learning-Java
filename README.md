@@ -1,2 +1,5 @@
 # Learning-Java
-Code Created while learning Java will go into this repository
+
+Collection of projects created while on the Java SE 8 programming course by QA. 
+
+Of sparterings of Java examples may be placed in here too.
