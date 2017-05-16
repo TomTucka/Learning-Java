@@ -1,9 +1,6 @@
 package com.example;
 
-/**
- *
- * @author oracle
- */
+
 public class Main {
 
     public static void main(String[] args) {
@@ -14,6 +11,10 @@ public class Main {
         
         System.out.println("Jane's witholding: " + jane.getWitholding());
         System.out.println("John's bonus " + john.getBonus());
+        
+//        BankEMICalculator acct1=new   BankEMICalculator("jane", "aa1234", 1000);
+//        double EMIamt=acct1.getMonthlypayment();
+//        System.out.print(EMIamt);
     }
     
 }
