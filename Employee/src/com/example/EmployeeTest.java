@@ -13,6 +13,7 @@ public class EmployeeTest {
 		
 		//Create the new class
 		Engineer eng = new Engineer(101, "Jane Smith", "012-34-5678", 120_345.27);
+		//Employee emp = new Employee(13, "Lionel Power", "099-90-6789", 67_990.90);
 		Admin adm = new Admin(304, "Bill Munroe", "108-23-6509", 75_002.34);
 		Manager mgr = new Manager(207, "Barbara Johnson", "054-12-2367", 109_501.36, "US Marketing");
 		Director dir = new Director(12, "Susan Wheeler", "099-45-2340", 120_567.36, 
